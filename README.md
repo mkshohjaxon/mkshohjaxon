@@ -83,3 +83,16 @@ I build mobile & web products end-to-end — from native Android to the backend 
 </div>
 
 <br/>
+
+<div align="center">
+
+### 🎯 2026 Goals
+
+</div>
+
+- 🚀 Ship Chatgram's web client to the public
+- 📈 Grow Toping's listings and user base
+- 🧠 Go deeper on backend architecture & system design
+- 🌱 Contribute to more open-source projects
+
+<br/>
