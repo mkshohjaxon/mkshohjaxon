@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:57C2FF&height=220&section=header&text=Shohjahon&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer&descAlignY=58&descSize=20" width="100%"/>
+<img src="assets/banner.png" width="100%"/>
 
-<a href="https://github.com/mkshohjaxon">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+Chatgram+%E2%80%94+Android+%2B+Web+messenger;Kotlin+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Firebase;Always+shipping+something+new" alt="Typing SVG" />
-</a>
+<br/>
+
+**Building Chatgram — Android + Web messenger** · Kotlin · TypeScript · React · Firebase
 
 <br/>
 
@@ -83,9 +83,3 @@ I build mobile & web products end-to-end — from native Android to the backend 
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:57C2FF,100:0A84FF&height=100&section=footer" width="100%"/>
-
-</div>
