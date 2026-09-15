@@ -21,6 +21,27 @@
 
 <div align="center">
 
+<img src="assets/toping/logo.png" width="220"/>
+
+**Toping** — a classifieds marketplace app for Uzbekistan: post listings, search nearby on a live map, and chat directly with buyers and sellers.
+
+<a href="https://play.google.com/store/apps/details?id=uz.topingapp.topingapp">
+  <img src="https://img.shields.io/badge/Google_Play-Toping-0A84FF?style=for-the-badge&logo=googleplay&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="assets/toping/screenshot-home.png" width="200"/>
+<img src="assets/toping/screenshot-categories.png" width="200"/>
+<img src="assets/toping/screenshot-detail.png" width="200"/>
+<img src="assets/toping/screenshot-map.png" width="200"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,typescript,firebase,nodejs,git,github&theme=dark" />
