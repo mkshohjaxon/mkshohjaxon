@@ -29,10 +29,9 @@
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mkshohjaxon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkshohjaxon&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mkshohjaxon&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/followers/mkshohjaxon?style=for-the-badge&color=0A84FF&logo=github&labelColor=161b22" />
+<img src="https://img.shields.io/github/stars/mkshohjaxon?style=for-the-badge&color=57C2FF&labelColor=161b22" />
+<img src="https://komarev.com/ghpvc/?username=mkshohjaxon&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" />
 
 <br/>
 
