@@ -6,9 +6,31 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+Chatgram+%E2%80%94+Android+%2B+Web+messenger;Kotlin+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Firebase;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
+<br/><br/>
+
+### 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,typescript,firebase,nodejs,git,github&theme=dark" />
+
+<br/><br/>
+
+### 📊 GitHub Stats
+
+<img src="https://img.shields.io/github/followers/mkshohjaxon?style=for-the-badge&color=0A84FF&logo=github&labelColor=161b22" />
+<img src="https://img.shields.io/github/stars/mkshohjaxon?style=for-the-badge&color=57C2FF&labelColor=161b22" />
+<img src="https://komarev.com/ghpvc/?username=mkshohjaxon&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" />
+
+<br/>
+
+### 📫 Reach me
+
+<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
 </div>
 
-### 🚀 What I'm building
+<br/>
+
+## 🚀 What I'm building
 
 <div align="center">
 
@@ -25,6 +47,8 @@
 
 <br/><br/>
 
+<img src="assets/chatgram/screenshot-privacy.png" width="220"/>
+<img src="assets/chatgram/screenshot-messages.png" width="220"/>
 <img src="assets/chatgram/screenshot-theme.png" width="220"/>
 <img src="assets/chatgram/screenshot-colors.png" width="220"/>
 
@@ -54,26 +78,6 @@
 <br/>
 
 <div align="center">
-
-### 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,react,typescript,firebase,nodejs,git,github&theme=dark" />
-
-<br/><br/>
-
-### 📊 GitHub Stats
-
-<img src="https://img.shields.io/github/followers/mkshohjaxon?style=for-the-badge&color=0A84FF&logo=github&labelColor=161b22" />
-<img src="https://img.shields.io/github/stars/mkshohjaxon?style=for-the-badge&color=57C2FF&labelColor=161b22" />
-<img src="https://komarev.com/ghpvc/?username=mkshohjaxon&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" />
-
-<br/>
-
-### 📫 Reach me
-
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:57C2FF,100:0A84FF&height=100&section=footer" width="100%"/>
 
