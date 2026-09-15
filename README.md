@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Building+Chatgram+%E2%80%94+Android+%2B+Web+messenger;Kotlin+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Firebase;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+
+I build mobile & web products end-to-end — from native Android to the backend that powers them. Currently rebuilding the Telegram experience from the ground up with **Chatgram**.
+
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -16,15 +20,18 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://img.shields.io/github/followers/mkshohjaxon?style=for-the-badge&color=0A84FF&logo=github&labelColor=161b22" />
-<img src="https://img.shields.io/github/stars/mkshohjaxon?style=for-the-badge&color=57C2FF&labelColor=161b22" />
-<img src="https://komarev.com/ghpvc/?username=mkshohjaxon&style=for-the-badge&color=0A84FF&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/mkshohjaxon?style=for-the-badge&color=0A84FF&logo=github&labelColor=161b22&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/mkshohjaxon?style=for-the-badge&color=57C2FF&labelColor=161b22&label=STARS" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=161b22&color=0A84FF&label=REPOS&query=public_repos&url=https://api.github.com/users/mkshohjaxon" />
+<img src="https://komarev.com/ghpvc/?username=mkshohjaxon&style=for-the-badge&color=57C2FF&label=PROFILE+VIEWS" />
 
-<br/>
+<br/><br/>
 
 ### 📫 Reach me
 
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/shoxxohs">
+  <img src="https://img.shields.io/badge/Telegram-@shoxxohs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 
 </div>
 
