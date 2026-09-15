@@ -51,6 +51,9 @@ I build mobile & web products end-to-end — from native Android to the backend 
 <a href="https://github.com/chatgram2026/web">
   <img src="https://img.shields.io/badge/Web-React%2FTypeScript-57C2FF?style=for-the-badge&logo=react&logoColor=white" />
 </a>
+<a href="https://chatgram.topen.uz/">
+  <img src="https://img.shields.io/badge/Live_Demo-chatgram.topen.uz-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 <br/><br/>
 
