@@ -10,12 +10,25 @@
 
 ### 🚀 What I'm building
 
-**Chatgram** — a Telegram-based messenger with its own identity: custom security features (chat lock, stranger protection), AI-powered voice translation, and a matching web client.
+<div align="center">
 
-- 📱 **Android** — Kotlin, built on the Telegram open-source client
-- 🌐 **Web** — React/TypeScript, forked from Telegram Web A
-- 🔥 Firebase for analytics
-- 🎨 Full custom branding — logo, icons, color system
+<img src="assets/chatgram/logo.png" width="120"/>
+
+**Chatgram** — a Telegram-based messenger with its own identity: chat lock, stranger protection, AI-powered voice translation, deleted-message recovery, and a matching web client.
+
+<a href="https://github.com/chatgram2026/android">
+  <img src="https://img.shields.io/badge/Android-Kotlin-0A84FF?style=for-the-badge&logo=android&logoColor=white" />
+</a>
+<a href="https://github.com/chatgram2026/web">
+  <img src="https://img.shields.io/badge/Web-React%2FTypeScript-57C2FF?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="assets/chatgram/screenshot-theme.png" width="220"/>
+<img src="assets/chatgram/screenshot-colors.png" width="220"/>
+
+</div>
 
 <br/>
 
