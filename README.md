@@ -74,7 +74,7 @@ I build mobile & web products end-to-end — from native Android to the backend 
 
 <img src="assets/toping/logo.png" width="220"/>
 
-**Toping** — a classifieds marketplace app for Uzbekistan: post listings, search nearby on a live map, and chat directly with buyers and sellers.
+**Toping** — a classifieds marketplace app for Uzbekistan: post listings with photos, browse categories, search nearby on a live map, save favorites and chat directly with buyers and sellers.
 
 <a href="https://play.google.com/store/apps/details?id=uz.topingapp.topingapp">
   <img src="https://img.shields.io/badge/Google_Play-Toping-0A84FF?style=for-the-badge&logo=googleplay&logoColor=white" />
@@ -82,10 +82,15 @@ I build mobile & web products end-to-end — from native Android to the backend 
 
 <br/><br/>
 
-<img src="assets/toping/screenshot-home.png" width="200"/>
-<img src="assets/toping/screenshot-categories.png" width="200"/>
-<img src="assets/toping/screenshot-detail.png" width="200"/>
-<img src="assets/toping/screenshot-map.png" width="200"/>
+<img src="assets/toping/screenshot-search.png" width="190"/>
+<img src="assets/toping/screenshot-categories.png" width="190"/>
+<img src="assets/toping/screenshot-map.png" width="190"/>
+<img src="assets/toping/screenshot-listing.png" width="190"/>
+
+<img src="assets/toping/screenshot-detail.png" width="190"/>
+<img src="assets/toping/screenshot-chat.png" width="190"/>
+<img src="assets/toping/screenshot-post.png" width="190"/>
+<img src="assets/toping/screenshot-profile.png" width="190"/>
 
 </div>
 
