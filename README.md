@@ -4,11 +4,11 @@
 
 <br/>
 
-**Building Chatgram — Android + Web messenger** · Kotlin · TypeScript · React · Firebase
+**Building Chitgram — Android + Web messenger** · Kotlin · TypeScript · React · Firebase
 
 <br/>
 
-I build mobile & web products end-to-end — from native Android to the backend that powers them. Currently rebuilding the Telegram experience from the ground up with **Chatgram**.
+I build mobile & web products end-to-end — from native Android to the backend that powers them. Currently rebuilding the Telegram experience from the ground up with **Chitgram**.
 
 <br/>
 
@@ -41,26 +41,30 @@ I build mobile & web products end-to-end — from native Android to the backend 
 
 <div align="center">
 
-<img src="assets/chatgram/logo.png" width="120"/>
+<img src="assets/chitgram/logo.png" width="120"/>
 
-**Chatgram** — a Telegram-based messenger with its own identity: chat lock, stranger protection, AI-powered voice translation, deleted-message recovery, and a matching web client.
+**Chitgram** — a Telegram-based messenger with its own identity: an auto messenger for groups and channels, ghost mode, chat lock, stranger protection, settings that sync across devices, Premium paid with Telegram Stars — and a matching web client.
 
-<a href="https://github.com/chatgram2026/android">
-  <img src="https://img.shields.io/badge/Android-Kotlin-0A84FF?style=for-the-badge&logo=android&logoColor=white" />
-</a>
-<a href="https://github.com/chatgram2026/web">
-  <img src="https://img.shields.io/badge/Web-React%2FTypeScript-57C2FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-Kotlin-0A84FF?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Web-React%2FTypeScript-57C2FF?style=for-the-badge&logo=react&logoColor=white" />
+<a href="https://t.me/chitgram_org">
+  <img src="https://img.shields.io/badge/Channel-@chitgram__org-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://chatgram.topen.uz/">
-  <img src="https://img.shields.io/badge/Live_Demo-chatgram.topen.uz-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_App-chatgram.topen.uz-0A84FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="assets/chatgram/screenshot-privacy.png" width="220"/>
-<img src="assets/chatgram/screenshot-messages.png" width="220"/>
-<img src="assets/chatgram/screenshot-theme.png" width="220"/>
-<img src="assets/chatgram/screenshot-colors.png" width="220"/>
+<img src="assets/chitgram/01-messenger.jpg" width="200"/>
+<img src="assets/chitgram/02-ghost-mode.jpg" width="200"/>
+<img src="assets/chitgram/03-premium.jpg" width="200"/>
+<img src="assets/chitgram/04-tab-bar.jpg" width="200"/>
+
+<img src="assets/chitgram/05-themes.jpg" width="200"/>
+<img src="assets/chitgram/06-channels.jpg" width="200"/>
+<img src="assets/chitgram/07-settings.jpg" width="200"/>
+<img src="assets/chitgram/08-security.jpg" width="200"/>
 
 </div>
 
@@ -93,7 +97,7 @@ I build mobile & web products end-to-end — from native Android to the backend 
 
 </div>
 
-- 🚀 Ship Chatgram's web client to the public
+- 🚀 Ship Chitgram to Google Play and its web client to the public
 - 📈 Grow Toping's listings and user base
 - 🧠 Go deeper on backend architecture & system design
 - 🌱 Contribute to more open-source projects
